@@ -1,3 +1,1 @@
-# mymobile
-my first project
-i love coffee :: Orange Juice 
+print("Hello world")
